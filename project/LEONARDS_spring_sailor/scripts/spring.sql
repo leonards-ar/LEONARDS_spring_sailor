@@ -1,3 +1,6 @@
+--GRANT ALL PRIVILEGES ON spring.* TO 'spring'@'localhost' IDENTIFIED BY 'spring1234' WITH GRANT OPTION;
+--GRANT ALL PRIVILEGES ON spring.* TO 'spring'@'%' IDENTIFIED BY 'spring1234' WITH GRANT OPTION;
+
 DROP TABLE tbl_messages;
 DROP TABLE tbl_reservation_contacts;
 DROP TABLE tbl_reservations_shifts;
