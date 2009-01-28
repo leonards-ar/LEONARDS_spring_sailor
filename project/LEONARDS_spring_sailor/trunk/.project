@@ -3,6 +3,7 @@
 	<name>LEONARDS_spring_sailor</name>
 	<comment></comment>
 	<projects>
+		<project>LEONARDS_common_libraries</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
